@@ -477,6 +477,7 @@ body {
 
     .logo__footer__contenedor {
         width: 230px;
+        margin-top: 0px;
     }
 
     .footer__section0, .footer__section2, .footer__section3 {
